@@ -1,4 +1,4 @@
-# Creating AMI :sushi: :fried_shrimp:
+# Creating AMI :sushi: :fried_shrimp: :watermelon:
 
 1) Install packer
 2) App repo
