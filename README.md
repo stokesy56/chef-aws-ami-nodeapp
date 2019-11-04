@@ -1,4 +1,4 @@
-# Creating AMI
+# Creating AMI :sushi:  
 
 1) Install packer
 2) App repo
