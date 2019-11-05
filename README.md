@@ -13,6 +13,6 @@
 ### Some commands - important stuff:
 - berks vendor cookbook - merges both cookbooks into one big cookbook
 - touch packer.json
-- echo "export AWS_SECRET_KEY_ID" = 'blablablablablablabla' >> .bash_profile
+- echo "export AWS_SECRET_KEY_ID" = 'blablablablablabla' >> .bash_profile
 - packer validate packer.json - checks if packer.json has any errors i.e. typo
 - packer build packer.json - makes the AMI
